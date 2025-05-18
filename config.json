@@ -1,0 +1,6 @@
+{
+    "max_proxies": 1000,
+    "default_duration": 6000,
+    "default_intensity": 2000,
+    "proxy_file": "pr.txt"
+}

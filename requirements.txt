@@ -1,0 +1,8 @@
+aiohttp==3.9.5
+fake_useragent==1.5.1
+rich==13.7.1
+pyfiglet==1.0.2
+aiohttp_socks==0.8.4
+scapy==2.5.0
+matplotlib==3.8.4
+pyinstaller==6.11.1
